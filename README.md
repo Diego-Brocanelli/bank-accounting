@@ -9,7 +9,7 @@ Operations supported:
 - Deposit.
 - Get the client balance.
 
-About the test [Bank accounting] (https://gist.github.com/bezelga/f4f6c065a454665122b875b1566d5178)
+About the test [Bank accounting](https://gist.github.com/bezelga/f4f6c065a454665122b875b1566d5178)
 
 # Required
 
